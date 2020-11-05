@@ -1,4 +1,13 @@
+Install gatsby: `npm install --global gatsby-cli`
+
+A react website built with Gatsby and some GraphQL.
+
+React Website Using Gatsby JS Tutorial - Responsive Project with Gatsby Image: https://www.youtube.com/watch?v=ThzUUdIVr_I
+
+---
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
